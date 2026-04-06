@@ -32,7 +32,7 @@ export default function Home() {
               Wholesale & retail
             </p>
             <h1 className="max-w-2xl text-4xl font-semibold leading-tight tracking-tight sm:text-5xl">
-              Farm-fresh potatoes, straight to your kitchen or business.
+              Farm-fresh potatoes With Taste, straight to your kitchen or business.
             </h1>
             <p className="mt-6 max-w-xl text-lg leading-relaxed text-zinc-600 dark:text-zinc-400">
               We source quality tubers from trusted growers, grade them carefully, and deliver on
